@@ -1,7 +1,7 @@
 # 2024F CS2910 Project Report
 **Group Members**
-1. Ditthi Chatterjee (368797)
-2. Mohammed Sahm (372021)
+1. Ditthi Chatterjee
+2. Mohammed Sahm
 
 # Summary of Game
 Ludo is a strategy-based board game for 2–4 players. Each player has four tokens and aims to move all of them from the 
